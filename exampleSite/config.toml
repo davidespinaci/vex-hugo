@@ -17,17 +17,25 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
+name = "Technology"
+url = "mytechfinance.com/technology"
+weight = 2
+[[menu.footer]]
+name = "Economics"
+url = "mytechfinance.com/economics"
+weight = 1
+[[menu.footer]]
 URL = "privacy-policy"
 name = "Privacy Policy"
-weight = 3
+weight = 5
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 2
+weight = 4
 [[menu.footer]]
 URL = "blog"
 name = "Blog"
-weight = 1
+weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
